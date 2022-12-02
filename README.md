@@ -48,5 +48,5 @@ Spring Data JPA, MySQL Driver, Spring Web, Apache Derby Database, and Lombok are
 
 5. To delete a User from database, use following url with DELETE request type in postman
   
-            http://localhost:3000/userss/id
+            http://localhost:3000/users/id
 
